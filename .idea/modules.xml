@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Missing_Number/Missing_Number.iml" filepath="$PROJECT_DIR$/Missing_Number/Missing_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weird_Algorithm/Weird_Algorithm.iml" filepath="$PROJECT_DIR$/Weird_Algorithm/Weird_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cses.fi_solutions.iml" filepath="$PROJECT_DIR$/.idea/cses.fi_solutions.iml" />
+    </modules>
+  </component>
+</project>
