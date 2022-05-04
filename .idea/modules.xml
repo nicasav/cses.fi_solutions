@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Increasing_Array/Increasing_Array.iml" filepath="$PROJECT_DIR$/Increasing_Array/Increasing_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction_Problems/Missing_Number/Missing_Number.iml" filepath="$PROJECT_DIR$/Introduction_Problems/Missing_Number/Missing_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number_Spiral/Number_Spiral.iml" filepath="$PROJECT_DIR$/Number_Spiral/Number_Spiral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permutations/Permutations.iml" filepath="$PROJECT_DIR$/Permutations/Permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repetitions/Repetitions.iml" filepath="$PROJECT_DIR$/Repetitions/Repetitions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction_Problems/Weird_Algorithm/Weird_Algorithm.iml" filepath="$PROJECT_DIR$/Introduction_Problems/Weird_Algorithm/Weird_Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cses.fi_solutions.iml" filepath="$PROJECT_DIR$/.idea/cses.fi_solutions.iml" />
     </modules>
