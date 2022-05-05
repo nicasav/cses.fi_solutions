@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Introduction_Problems/Number_Spiral/Number_Spiral.iml" filepath="$PROJECT_DIR$/Introduction_Problems/Number_Spiral/Number_Spiral.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction_Problems/Permutations/Permutations.iml" filepath="$PROJECT_DIR$/Introduction_Problems/Permutations/Permutations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction_Problems/Repetitions/Repetitions.iml" filepath="$PROJECT_DIR$/Introduction_Problems/Repetitions/Repetitions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction_Problems/Two_Knights/Two_Knights.iml" filepath="$PROJECT_DIR$/Introduction_Problems/Two_Knights/Two_Knights.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction_Problems/Weird_Algorithm/Weird_Algorithm.iml" filepath="$PROJECT_DIR$/Introduction_Problems/Weird_Algorithm/Weird_Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cses.fi_solutions.iml" filepath="$PROJECT_DIR$/.idea/cses.fi_solutions.iml" />
     </modules>
